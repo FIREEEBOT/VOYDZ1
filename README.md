@@ -23,12 +23,12 @@
   <img src="https://telegra.ph/file/b9235649fcba19311dc6c.jpg">
 </p>
 
-# NishimiyaRobot
+# VoydzRobot
 Me On Telegram [✨Voydz✨](https://t.me/ESdeathvoydz_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/darkphoenix2601/nishimiya"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/FIREEEBOT/VOYDZ1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 CREDITS
 ```
