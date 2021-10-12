@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/darkphoenix2601/nishimiya
+    <a href="https://github.com/FIREEEBOT/VOYDZ1
 /stargazers"><img src="https://img.shields.io/github/stars/darkphoenix2601/nishimiya
 ?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
@@ -20,11 +20,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/26141d83f26e0c8499b27.jpg">
+  <img src="https://telegra.ph/file/b9235649fcba19311dc6c.jpg">
 </p>
 
 # NishimiyaRobot
-Me On Telegram [✨nishimiya✨](https://t.me/nishimiya_music_bot)
+Me On Telegram [✨Voydz✨](https://t.me/ESdeathvoydz_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
